@@ -3,3 +3,4 @@ EconomicsObjectives
 SetupGuide
 ModelingFeatures
 DependenciesList
+CodeExamples
