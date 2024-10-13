@@ -4,3 +4,4 @@ SetupGuide
 ModelingFeatures
 DependenciesList
 CodeExamples
+ConfigurationSettings
