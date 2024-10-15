@@ -5,3 +5,4 @@ ModelingFeatures
 DependenciesList
 CodeExamples
 ConfigurationSettings
+ContributionGuide
