@@ -12,3 +12,4 @@ EconomicsFAQ
 Changelog
 TestingInstructions
 ModelingPerformance
+CommunityResources
